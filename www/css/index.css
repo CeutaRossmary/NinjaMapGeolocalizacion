@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding-top: 5px;
+    color: #ff0000;
+}
+
+body h2 {
+    color: #0026ff;
+}
+
+#map-canvas {
+    height: 100%;
+}
+
+#pos {
+    margin-top: 10px;
+}
+
+#pos input {
+    border: 1px solid black;
+    height: 15px;
+}
